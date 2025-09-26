@@ -1,2 +1,2 @@
-def cube(x):
-    return x * x * x
+def square(x):
+    return x * x
